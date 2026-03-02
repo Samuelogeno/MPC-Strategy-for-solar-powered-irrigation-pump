@@ -1,4 +1,4 @@
-Abstract
+## Abstract
 
 The decoupling of stochastic renewable energy generation from critical water demand in off-grid
 solar irrigation systems presents a fundamental control challenge. This is particularly acute in
@@ -34,10 +34,11 @@ The results demonstrate that "hydro-aware" control strategies are essential for 
 intensification of solar irrigation, confirming that aquifer properties, rather than solar peak
 power, are the governing constraint in many African contexts.
 
-References
+## References
 [1] "Meunier, S., et al. (2023). Aquifer conditions, not irradiance determine the potential of 
 photovoltaic energy.". 
 [2] "Bwambale, E., et al. (2023). Data-driven model predictive control for precision irrigation.". 
 [3] " Scattolini, R. and Colaneri, P. (2007). Hierarchical Model Predictive Control.".
 
-Social Post (LinkedIN): https://www.linkedin.com/posts/samuel-ochor_over-the-last-five-months-i-have-had-the-activity-7424692500897968129-ulDf?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACV0gGwBloTf3EGWuVsJyWnLVfmk77aWweg
+## Social Post (LinkedIN): 
+https://www.linkedin.com/posts/samuel-ochor_over-the-last-five-months-i-have-had-the-activity-7424692500897968129-ulDf?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACV0gGwBloTf3EGWuVsJyWnLVfmk77aWweg
