@@ -39,3 +39,5 @@ References
 photovoltaic energy.". 
 [2] "Bwambale, E., et al. (2023). Data-driven model predictive control for precision irrigation.". 
 [3] " Scattolini, R. and Colaneri, P. (2007). Hierarchical Model Predictive Control.".
+
+Social Post (LinkedIN): https://www.linkedin.com/posts/samuel-ochor_over-the-last-five-months-i-have-had-the-activity-7424692500897968129-ulDf?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACV0gGwBloTf3EGWuVsJyWnLVfmk77aWweg
